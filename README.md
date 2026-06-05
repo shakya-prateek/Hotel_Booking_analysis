@@ -216,5 +216,5 @@ By combining structured data preprocessing, KPI development, and dashboard-based
 
 
 
-- <img width="1069" height="1542" alt="Screenshot 2026-02-18 at 22 53 54" src="https://github.com/user-attachments/assets/a70a7609-94a3-4fed-90c0-f3400c471b7c" />
+- <img width="1069" height="1542" alt="Screenshot 2026-02-18 at 22 53 54" src="Screenshot 2026-02-18 at 22.53.54.png" />
 
